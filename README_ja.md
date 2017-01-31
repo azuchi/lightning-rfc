@@ -6,7 +6,7 @@
 
 ディスカッションは[lighting-devメーリングリスト](https://lists.linuxfoundation.org/mailman/listinfo/lightning-dev)で行っています。
 
-### [クリックして目次を表示](https://github.com/lightningnetwork/lightning-rfc/blob/master/00-introduction_ja.md)
+### [クリックして目次を表示](00-introduction_ja.md)
 
 ![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png "License CC-BY")
 <br>
