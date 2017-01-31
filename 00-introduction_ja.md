@@ -8,7 +8,7 @@
 
 これはバージョン0です。
 
-1. [BOLT #1](01-messaging.md): ベースプロトコル
+1. [BOLT #1](01-messaging_ja.md): 基本プロトコル
 2. [BOLT #2](02-peer-protocol.md): チャネル管理用のピアプロトコル
 3. [BOLT #3](03-transactions.md): Bitcoinのトランザクションとスクリプトのフォーマット
 4. [BOLT #4](04-onion-routing.md): オニオンルーティングプロトコル
